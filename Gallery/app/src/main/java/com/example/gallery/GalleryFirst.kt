@@ -11,6 +11,7 @@ import kotlinx.android.synthetic.main.fragment_gallery_first.*
 import kotlinx.android.synthetic.main.fragment_gallery_first.view.*
 
 class GalleryFirst : Fragment() {
+    xxx
     private val galleryViewModel: GalleryViewModel by activityViewModels()
     private lateinit var textInput: String
 
