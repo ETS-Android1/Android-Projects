@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountPoint</string>
+    <string name="count">Score Indicator</string>
+    <string name="point" translatable="false">0</string>
+    <string name="button1" translatable="false">+1</string>
+    <string name="button2" translatable="false">+2</string>
+    <string name="button3" translatable="false">+3</string>
+    <string name="reset">reset</string>
+    <string name="return1">return</string>
+</resources>

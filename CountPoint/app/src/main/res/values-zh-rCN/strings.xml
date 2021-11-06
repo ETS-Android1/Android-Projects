@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountPoint</string>
+    <string name="count">计分器</string>
+    <string name="return1">返回</string>
+    <string name="reset">重置</string>
+</resources>
