@@ -10,4 +10,4 @@ A photo viewer app that uses Pixabay(a website provides free photos)'s API. The 
 * You can rotate your screen
 
 ### The motivation of making this app
-To learn the method of making some functions using Internet in a application.
+To learn the method of using Internet to achieve some functions in a application.
