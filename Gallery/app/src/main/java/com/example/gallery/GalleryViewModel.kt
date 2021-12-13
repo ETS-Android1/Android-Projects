@@ -37,6 +37,7 @@ class GalleryViewModel(application: Application) : AndroidViewModel(application)
         VolleySingleton.getInstance(getApplication()).requestQueue.add(stringRequest)
     }
 
+
     private fun getUrl(): String {
         keyWordsArray = text.value?.split(" ")!!
         keyWords = keyWordsArray?.joinToString("+")
