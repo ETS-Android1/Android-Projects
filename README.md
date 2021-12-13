@@ -7,7 +7,7 @@ A photoviewer app that uses Pixabay(a website provides free photos)'s API. The b
   * You can use Space between several different words(eg."cat dog") to include several information you want to search for.
 * When you taped the photo, the link of that photo will appear and then you can copy it for searching the information about that photo if you want.
 * You can use Refresh to get some new photos based on your input
-* You can lotate your screen
+* You can rotate your screen
 
 ### The motivation of making this app
 To learn the method of making some functions using internet in a application.
