@@ -1,7 +1,7 @@
 # Android-Projects
 My android application projects.  
 
-## Introduction of Gallery  
+## Introduction of 「Gallery」  
 A photo viewer app that uses Pixabay(a website provides free photos)'s API. The basic functions includes:
 * Search for the photos based on your input 
   * You can use Space between several different words(eg."cat dog") to include several information you want to search for.
